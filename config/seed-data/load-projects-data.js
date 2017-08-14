@@ -3,12 +3,16 @@
 module.exports = 
 {
   "name": "Projects",
-  "date": "2017-02-09T22:39:01.438Z",
+  "date": "2017-02-09T22:43:01.438Z",
   "data": [
     {
       "description": "",
       "name": "Coal Mountain Operations",
       "code": "coal-mountain-operations",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/coal-mountain-operations/docs?folder=2",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/coal-mountain-operations/docs?folder=14",
       "content": [
         {
           "html": "Coal Mountain Operations Overview",
@@ -302,6 +306,10 @@ module.exports =
       "description": "",
       "name": "Copper Mountain",
       "code": "copper-mountain",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/copper-mountain-similco/docs?folder=2",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/copper-mountain-similco/docs?folder=24",
       "content": [
         {
           "html": "Copper Mountain Mine Overview",
@@ -394,6 +402,10 @@ module.exports =
       "description": "",
       "name": "Fording River Operations",
       "code": "fording-river-operations",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/fording-river-operations/docs?folder=8",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/fording-river-operations/docs?folder=4",
       "content": [
         {
           "html": "Fording River Operations Overview",
@@ -687,6 +699,10 @@ module.exports =
       "description": "",
       "name": "New Afton",
       "code": "new-afton",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/new-afton/docs?folder=2",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/new-afton/docs?folder=4",
       "content": [
         {
           "html": "New Afton Mine Overview",
@@ -778,6 +794,10 @@ module.exports =
       "description": "",
       "name": "Highland Valley Copper",
       "code": "highland-valley-copper",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/highland-valley-copper-hvc/docs?folder=4",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/highland-valley-copper-hvc/docs?folder=15",
       "content": [
         {
           "html": "Highland Valley Copper (HVC) Mine Overview",
@@ -869,6 +889,10 @@ module.exports =
       "description": "",
       "name": "Brucejack",
       "code": "brucejack",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/brucejack/docs?folder=2",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/brucejack/docs?folder=5",
       "content": [
         {
           "html": "Brucejack Mine Overview",
@@ -1057,6 +1081,10 @@ module.exports =
       "description": "",
       "name": "Greenhills Operations",
       "code": "greenhills-operations",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/greenhills-operations/docs?folder=2",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/greenhills-operations/docs?folder=20",
       "content": [
         {
           "html": "Greenhills Operations Overview",
@@ -1350,6 +1378,10 @@ module.exports =
       "description": "",
       "name": "Line Creek Operations",
       "code": "line-creek-operations",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/line-creek-operations/docs?folder=2",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/line-creek-operations/docs?folder=13",
       "content": [
         {
           "html": "Line Creek Operations Overview",
@@ -1629,6 +1661,10 @@ module.exports =
       "description": "",
       "name": "Mount Polley",
       "code": "mount-polley",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/mount-polley/docs?folder=5",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/mount-polley/docs?folder=2",
       "content": [
         {
           "html": "Mount Polley Mine Overview",
@@ -1902,6 +1938,10 @@ module.exports =
       "description": "",
       "name": "Elkview Operations",
       "code": "elkview-operations",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/elkview-operations/docs?folder=8",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/elkview-operations/docs?folder=6",
       "content": [
         {
           "html": "Elkview Operations Overview",
@@ -2195,6 +2235,10 @@ module.exports =
       "description": "",
       "name": "Gibraltar",
       "code": "gibraltar",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/gibraltar/docs?folder=2",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/gibraltar/docs?folder=16",
       "content": [
         {
           "html": "Gibraltar Mine Overview",
@@ -2286,6 +2330,10 @@ module.exports =
       "description": "",
       "name": "Red Chris",
       "code": "red-chris",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/red-chris/docs?folder=7",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/red-chris/docs?folder=5",
       "content": [
         {
           "html": "Red Chris MineOverview",
@@ -2377,6 +2425,10 @@ module.exports =
       "description": "",
       "name": "Mount Milligan",
       "code": "mount-milligan",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/mount-milligan/docs?folder=2",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/mount-milligan/docs?folder=7",
       "content": [
         {
           "html": "Mount Milligan Mine Overview",
@@ -2468,6 +2520,10 @@ module.exports =
       "description": "",
       "name": "Silvertip",
       "code": "silvertip",
+      "morePermitsLinkYear": "2013",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/silvertip/docs?folder=2",
+      "moreInspectionsLinkYear": "2013",
+      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/silvertip/docs?folder=5",
       "content": [
         {
           "html": "Silvertip Mine Overview",

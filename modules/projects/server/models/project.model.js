@@ -21,6 +21,11 @@ module.exports = require('../../../core/server/controllers/core.schema.controlle
 	latitude: {type: Number, default: 0},
 	longitude: {type: Number, default: 0},
 
+	morePermitsLinkYear: 		{ type: String, defualt: null },
+	morePermitsLink: 			{ type: String, defualt: null },
+	moreInspectionsLink: 		{ type: String, defualt: null },
+	moreInspectionsLinkYear: 	{ type: String, defualt: null },
+
 	commodityType: {type: String, default: ''},
 	commodities: [{type: String, default: ''}],
 
