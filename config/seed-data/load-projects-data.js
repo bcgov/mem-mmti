@@ -1,6 +1,6 @@
 'use strict';
 /* jshint -W100 */
-module.exports = 
+module.exports =
 {
   "name": "Projects",
   "date": "2017-02-09T22:43:01.438Z",
@@ -903,16 +903,16 @@ module.exports =
           "source": "IMPORT"
         },
         {
-          "html": "<p>Located about 65 km from Stewart in northwest British Columbia, the Brucejack mine is currently under construction. The mine is expected to open in mid-2017 and will produce gold and silver.</p>\r<p>The Brucejack project is being developed at an estimated capital cost of $750 million. Brucejack has an estimated mine life of 18 years and will, once fully operational, employ about 500 people full time.</p>\r<p>Brucejack received an environmental assessment (EA) certificate in March 2015 and Mines Act and Environmental Management Act authorizations in September 2015.</p>",
-          "text": "Located about 65 km from Stewart in northwest British Columbia, the Brucejack mine is currently under construction. The mine is expected to open in mid-2017 and will produce gold and silver.\r\rThe Brucejack project is being developed at an estimated capital cost of $750 million. Brucejack has an estimated mine life of 18 years and will, once fully operational, employ about 500 people full time.\r\rBrucejack received an environmental assessment (EA) certificate in March 2015 and Mines Act and Environmental Management Act authorizations in September 2015.",
+          "html": "<p>The Brucejack gold-silver mine, located about 65 km from Stewart in northwest BC, began production in mid-2017. The project has an estimated mine life of 18 years and employs approximately 215 people (as of August 2017).</p><p>Brucejack received an environmental assessment (EA) certificate in March 2015 and Mines Act and Environmental Management Act authorizations in September 2015.</p>",
+          "text": "The Brucejack gold-silver mine, located about 65 km from Stewart in northwest BC, began production in mid-2017. The project has an estimated mine life of 18 years and employs approximately 215 people (as of August 2017).\r\rBrucejack received an environmental assessment (EA) certificate in March 2015 and Mines Act and Environmental Management Act authorizations in September 2015.",
           "title": "Introduction",
           "page": "DETAILS",
           "type": "INTRO_TEXT",
           "source": "IMPORT"
         },
         {
-          "html": "The Brucejack mine is currently under construction and is located about 65 km from Stewart. The mine is expected to open in mid-2017.",
-          "text": "The Brucejack mine is currently under construction and is located about 65 km from Stewart. The mine is expected to open in mid-2017.",
+          "html": "<p>The Brucejack mine is located about 65 km from Stewart and began production in July 2017.</p>",
+          "text": "The Brucejack mine is located about 65 km from Stewart and began production in July 2017.",
           "title": "Introduction",
           "page": "MINES",
           "type": "OVERVIEW_INTRO_TEXT",
@@ -952,7 +952,7 @@ module.exports =
           "name": "Construction"
         },
         {
-          "status": "Pending",
+          "status": "Active",
           "name": "Operation"
         },
         {
@@ -1693,7 +1693,7 @@ module.exports =
       ],
       "externalLinks": [
         {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
+          "link": "https://www.imperialmetals.com/our-operations/mount-polley-mine/overview",
           "title": "Mount Polley Mine (Imperial Metals)",
           "page": "DETAILS",
           "type": "EXTERNAL_LINK",
@@ -1701,7 +1701,7 @@ module.exports =
         },
         {
           "link": "http://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/further-information/directives-alerts-incident-information/mount-polley-tailings-breach",
-          "title": "Mount Polley Tailings Breach (Ministry of Energy and Mines)",
+          "title": "Mount Polley Tailings Breach (Ministry of Energy, Mines and Petroleum Resources)",
           "page": "DETAILS",
           "type": "EXTERNAL_LINK",
           "source": "IMPORT"
@@ -1714,182 +1714,14 @@ module.exports =
           "source": "IMPORT"
         },
         {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
-          "title": "Mount Polley Mine (Imperial Metals)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/further-information/directives-alerts-incident-information/mount-polley-tailings-breach",
-          "title": "Mount Polley Tailings Breach (Ministry of Energy and Mines)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/environment/air-land-water/spills-environmental-emergencies/spill-incidents/past-spill-incidents/mt-polley",
-          "title": "Mount Polley Tailing Dam Breach (Ministry of Environment Incident Response)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
-          "title": "Mount Polley Mine (Imperial Metals)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/further-information/directives-alerts-incident-information/mount-polley-tailings-breach",
-          "title": "Mount Polley Tailings Breach (Ministry of Energy and Mines)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/environment/air-land-water/spills-environmental-emergencies/spill-incidents/past-spill-incidents/mt-polley",
-          "title": "Mount Polley Tailing Dam Breach (Ministry of Environment Incident Response)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
-          "title": "Mount Polley Mine (Imperial Metals)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/further-information/directives-alerts-incident-information/mount-polley-tailings-breach",
-          "title": "Mount Polley Tailings Breach (Ministry of Energy and Mines)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/environment/air-land-water/spills-environmental-emergencies/spill-incidents/past-spill-incidents/mt-polley",
-          "title": "Mount Polley Tailing Dam Breach (Ministry of Environment Incident Response)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
-          "title": "Mount Polley Mine (Imperial Metals)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/further-information/directives-alerts-incident-information/mount-polley-tailings-breach",
-          "title": "Mount Polley Tailings Breach (Ministry of Energy and Mines)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/environment/air-land-water/spills-environmental-emergencies/spill-incidents/past-spill-incidents/mt-polley",
-          "title": "Mount Polley Tailing Dam Breach (Ministry of Environment Incident Response)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
-          "title": "Mount Polley Mine (Imperial Metals)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/further-information/directives-alerts-incident-information/mount-polley-tailings-breach",
-          "title": "Mount Polley Tailings Breach (Ministry of Energy and Mines)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/environment/air-land-water/spills-environmental-emergencies/spill-incidents/past-spill-incidents/mt-polley",
-          "title": "Mount Polley Tailing Dam Breach (Ministry of Environment Incident Response)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
-          "title": "Mount Polley Mine (Imperial Metals)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/further-information/directives-alerts-incident-information/mount-polley-tailings-breach",
-          "title": "Mount Polley Tailings Breach (Ministry of Energy and Mines)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/environment/air-land-water/spills-environmental-emergencies/spill-incidents/past-spill-incidents/mt-polley",
-          "title": "Mount Polley Tailing Dam Breach (Ministry of Environment Incident Response)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
-          "title": "Mount Polley Mine (Imperial Metals)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/further-information/directives-alerts-incident-information/mount-polley-tailings-breach",
-          "title": "Mount Polley Tailings Breach (Ministry of Energy and Mines)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/environment/air-land-water/spills-environmental-emergencies/spill-incidents/past-spill-incidents/mt-polley",
-          "title": "Mount Polley Tailing Dam Breach (Ministry of Environment Incident Response)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
-          "title": "Mount Polley Mine (Imperial Metals)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/further-information/directives-alerts-incident-information/mount-polley-tailings-breach",
-          "title": "Mount Polley Tailings Breach (Ministry of Energy and Mines)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "http://www2.gov.bc.ca/gov/content/environment/air-land-water/spills-environmental-emergencies/spill-incidents/past-spill-incidents/mt-polley",
-          "title": "Mount Polley Tailing Dam Breach (Ministry of Environment Incident Response)",
-          "page": "DETAILS",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
+          "link": "https://www.imperialmetals.com/our-operations/mount-polley-mine/overview",
           "title": "Mount Polley Mine (Imperial Metals)",
           "page": "COMPLIANCE",
           "type": "EXTERNAL_LINK",
           "source": "IMPORT"
         },
         {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/mount-polley-mine/overview",
+          "link": "https://www.imperialmetals.com/our-operations/mount-polley-mine/overview",
           "title": "Mount Polley Mine (Imperial Metals)",
           "page": "AUTHORIZATION",
           "type": "EXTERNAL_LINK",
@@ -2362,21 +2194,21 @@ module.exports =
       ],
       "externalLinks": [
         {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/red-chris-mine/overview",
+          "link" : "https://www.imperialmetals.com/careers/our-operations-or-projects",
           "title": "Red Chris Mine (Imperial Metals)",
           "page": "DETAILS",
           "type": "EXTERNAL_LINK",
           "source": "IMPORT"
         },
         {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/red-chris-mine/overview",
+          "link" : "https://www.imperialmetals.com/careers/our-operations-or-projects",
           "title": "Red Chris Mine (Imperial Metals)",
           "page": "COMPLIANCE",
           "type": "EXTERNAL_LINK",
           "source": "IMPORT"
         },
         {
-          "link": "https://www.imperialmetals.com/our-operations-and-projects/operations/red-chris-mine/overview",
+          "link" : "https://www.imperialmetals.com/careers/our-operations-or-projects",
           "title": "Red Chris Mine (Imperial Metals)",
           "page": "AUTHORIZATION",
           "type": "EXTERNAL_LINK",
@@ -2542,8 +2374,8 @@ module.exports =
           "source": "IMPORT"
         },
         {
-          "html": "<p>The Silvertip mine is currently under construction and expected to open later in 2017. The project is located in northern BC, approximately 16 km south of the Yukon border and 90 km southwest of Watson Lake.</p>",
-          "text": "The Silvertip mine is currently under construction and expected to open later in 2017. The project is located in northern BC, approximately 16 km south of the Yukon border and 90 km southwest of Watson Lake.",
+          "html": "<p>The Silvertip mine project is located in northern BC, approximately 16 km south of the Yukon border and 90 km southwest of Watson Lake.</p>",
+          "text": "The Silvertip mine project is located in northern BC, approximately 16 km south of the Yukon border and 90 km southwest of Watson Lake.",
           "title": "Introduction",
           "page": "MINES",
           "type": "OVERVIEW_INTRO_TEXT",
@@ -2800,6 +2632,335 @@ module.exports =
       "operator": "JDS Silver Inc.",
       "ownership": "JDS Silver Inc. - 100%",
       "status": "Under Construction"
+    },
+    {
+      "name" : "Kemess",
+      "code" : "kemess",
+      "operator" : "AuRico Metals Inc.",
+      "ownership" : "AuRico Metals Inc.",
+      "morePermitsLinkYear" : "2013",
+      "morePermitsLink" : "https://mines.empr.gov.bc.ca/p/kemess/docs?folder=13",
+      "moreInspectionsLinkYear" : "2013",
+      "moreInspectionsLink" : "https://mines.empr.gov.bc.ca/p/kemess/docs?folder=8",
+      "status" : "Operating",
+      "description" : "AuRico Metals Inc.’s Kemess property is located in north-central BC, approximately 250 km north of Smithers and 430 km northwest of Prince George. The property comprises the past-producing Kemess South mine as well as the Kemess Underground and Kemess East projects.",
+      "tailingsImpoundments" : 1,
+      "commodities" : [
+        "Copper",
+        "Gold"
+      ],
+      "commodityType" : "Metal",
+      "longitude" : -126.7,
+      "latitude" : 57.062,
+      "content" : [
+        {
+          "html" : "Kemess Mine Overview",
+          "text" : "Kemess Mine Overview",
+          "title" : "Kemess Mine Overview",
+          "page" : "DETAILS",
+          "type" : "SUBTITLE",
+          "source" : "IMPORT"
+        },
+        {
+          "html" : "<p>AuRico Metals Inc.&#8217;s Kemess property is located in north-central BC, about 250 km north of Smithers and 430 km northwest of Prince George. The property includes the past-producing Kemess South mine, which operated from October 1998 to March 2011; the Kemess Underground project, which received an environmental assessment (EA) certificate in March 2017; and the Kemess East project, which is currently in the exploration phase.</p><p>The Kemess South complex consisted of an open-pit mine, a 52,000 tonne-per-day milling facility, and various ancillary support facilities, including maintenance shops and housing for 400 full-time employees during operations. Kemess South is currently in care and maintenance as final reclamation work is ongoing.</p><p>AuRico plans to develop Kemess Underground as a 9 million tonne-per-year copper-gold operation which would utilize existing Kemess South infrastructure as well as the open pit for tailings and waste rock storage. New infrastructure would include a 0.7 km tunnel, a 4 km access road as well as underground mining operations and processing facilities.</p>",
+          "text" : "AuRico Metals Inc.’s Kemess property is located in north-central BC, about 250 km north of Smithers and 430 km northwest of Prince George. The property includes the past-producing Kemess South mine, which operated from October 1998 to March 2011; the Kemess Underground project, which received an environmental assessment (EA) certificate in March 2017; and the Kemess East project, which is currently in the exploration phase.\r\rThe Kemess South complex consisted of an open-pit mine, a 52,000 tonne-per-day milling facility, and various ancillary support facilities, including maintenance shops and housing for 400 full-time employees during operations. Kemess South is currently in care and maintenance as final reclamation work is ongoing.\r\rAuRico plans to develop Kemess Underground as a 9 million tonne-per-year copper-gold operation which would utilize existing Kemess South infrastructure as well as the open pit for tailings and waste rock storage. New infrastructure would include a 0.7 km tunnel, a 4 km access road as well as underground mining operations and processing facilities.",
+          "title" : "Introduction",
+          "page" : "DETAILS",
+          "type" : "INTRO_TEXT",
+          "source" : "IMPORT"
+        },
+        {
+          "html" : "<p>AuRico Metals Inc.&#8217;s Kemess property is located in north-central BC, about 250 km north of Smithers and 430 km northwest of Prince George.</p>",
+          "text" : "AuRico Metals Inc.’s Kemess property is located in north-central BC, about 250 km north of Smithers and 430 km northwest of Prince George.",
+          "title" : "Introduction",
+          "page" : "MINES",
+          "type" : "OVERVIEW_INTRO_TEXT",
+          "source" : "Import"
+        }
+      ],
+      "activities" : [
+        {
+          "order" : 1,
+          "status" : "Active",
+          "name" : "Design"
+        },
+        {
+          "order" : 2,
+          "status" : "Inactive",
+          "name" : "Construction"
+        },
+        {
+          "order" : 3,
+          "status" : "Inactive",
+          "name" : "Operation"
+        },
+        {
+          "order" : 4,
+          "status" : "Active",
+          "name" : "Closure"
+        },
+        {
+          "order" : 5,
+          "status" : "Active",
+          "name" : "Reclamation"
+        },
+        {
+          "order" : 6,
+          "status" : "Active",
+          "name" : "Monitoring & Reporting"
+        }
+      ],
+      "externalLinks" : [
+      ],
+      "externalIDs" : [
+      ]
+    },
+    {
+      "name" : "Trend-Roman",
+      "code" : "trend-roman",
+      "operator" : "Peace River Coal Inc.",
+      "ownership" : "Peace River Coal Inc.",
+      "morePermitsLinkYear" : "2013",
+      "morePermitsLink" : "https://mines.empr.gov.bc.ca/p/trend-roman/docs?folder=8",
+      "moreInspectionsLinkYear" : "2013",
+      "moreInspectionsLink" : "https://mines.empr.gov.bc.ca/p/trend-roman/docs?folder=2",
+      "status" : "Operating",
+      "description": "Peace River Coal's Trend coal mine, located near Tumbler Ridge in northeast BC, began production in 2006. Operations were to be integrated with those of the Roman coal mine; however, as a result of low coal prices, Trend-Roman has been in care and maintenance since January 2015.",
+      "tailingsImpoundments" : 0,
+      "commodities" : [
+        "Coal"
+      ],
+      "commodityType" : "Coal",
+      "longitude" : -120.9774,
+      "latitude" : 54.8995,
+      "content" : [
+        {
+          "html" : "Trend Mine Overview",
+          "text" : "Trend Mine Overview",
+          "title" : "Trend Mine Overview",
+          "page" : "DETAILS",
+          "type" : "SUBTITLE",
+          "source" : "IMPORT"
+        },
+        {
+          "html" : "<p>The Trend metallurgical coal mine, located approximately 30 km south of Tumbler Ridge in northeast BC, began production in 2006. Operations were to be integrated with those of the Roman coal mine, which was approved in March 2014; however, Trend-Roman halted production at the end of December 2014 due to low coal prices.</p><p>Trend-Roman is an open-cut coal mine owned and operated by Peace River Coal Inc., a wholly owned subsidiary of Anglo American. The mine transitioned into a care and maintenance operating mode as of January 16, 2015.</p>",
+          "text" : "The Trend metallurgical coal mine, located approximately 30 km south of Tumbler Ridge in northeast BC, began production in 2006. Operations were to be integrated with those of the Roman coal mine, which was approved in March 2014; however, Trend-Roman halted production at the end of December 2014 due to low coal prices.\r\rTrend-Roman is an open-cut coal mine owned and operated by Peace River Coal Inc., a wholly owned subsidiary of Anglo American. The mine transitioned into a care and maintenance operating mode as of January 16, 2015.",
+          "title" : "Introduction",
+          "page" : "DETAILS",
+          "type" : "INTRO_TEXT",
+          "source" : "IMPORT"
+        },
+        {
+          "html" : "<p>The Trend metallurgical coal mine, located approximately 30 km south of Tumbler Ridge in northeast BC, began production in 2006.</p>",
+          "text" : "The Trend metallurgical coal mine, located approximately 30 km south of Tumbler Ridge in northeast BC, began production in 2006.",
+          "title" : "Introduction",
+          "page" : "MINES",
+          "type" : "OVERVIEW_INTRO_TEXT",
+          "source" : "Import"
+        }
+      ],
+      "activities" : [
+        {
+          "order" : 1,
+          "status" : "Inactive",
+          "name" : "Design"
+        },
+        {
+          "order" : 2,
+          "status" : "Inactive",
+          "name" : "Construction"
+        },
+        {
+          "order" : 3,
+          "status" : "Inactive",
+          "name" : "Operation"
+        },
+        {
+          "order" : 4,
+          "status" : "N/A",
+          "name" : "Closure"
+        },
+        {
+          "order" : 5,
+          "status" : "Active",
+          "name" : "Reclamation"
+        },
+        {
+          "order" : 6,
+          "status" : "Active",
+          "name" : "Monitoring & Reporting"
+        }
+      ],
+      "externalLinks" : [
+      ],
+      "externalIDs" : [
+      ]
+    },
+    {
+      "name" : "Tulsequah Chief",
+      "code" : "tulsequah-chief",
+      "operator" : "Chieftan Metals Corp.",
+      "ownership" : "Chieftan Metals Corp.",
+      "morePermitsLinkYear" : "2013",
+      "morePermitsLink" : "https://mines.empr.gov.bc.ca/p/tulsequah-chief/docs?folder=3",
+      "moreInspectionsLinkYear" : "2013",
+      "moreInspectionsLink" : "https://mines.empr.gov.bc.ca/p/tulsequah-chief/docs?folder=2",
+      "status" : "Operating",
+      "description": "The Tulsequah Chief mine, located 100 km southwest of Atlin, was operated by Cominco as a copper, lead, zinc, silver and gold mine from 1950 to 1957.",
+      "tailingsImpoundments" : 0,
+      "commodities" : [
+        "Copper",
+        "Lead",
+        "Zinc",
+        "Silver",
+        "Gold"
+      ],
+      "commodityType" : "Metal",
+      "longitude" : -133.35,
+      "latitude" : 58.43,
+      "content" : [
+        {
+          "html" : "Tulsequah Chief Mine Overview",
+          "text" : "Tulsequah Chief Mine Overview",
+          "title" : "Tulsequah Chief Mine Overview",
+          "page" : "DETAILS",
+          "type" : "SUBTITLE",
+          "source" : "IMPORT"
+        },
+        {
+          "html" : "<p>The Tulsequah Chief mine, located 100 km southwest of Atlin, was operated by Cominco as a copper, lead, zinc, silver and gold mine from 1950 to 1957. The mine site is on the Tulsequah River about 10 km upstream from its confluence with the Taku River, which drains into Taku Inlet near Juneau, Alaska. Due to ongoing interest in this mine, the Ministry of Environment has set up a <a target='_blank' href='http://www2.gov.bc.ca/gov/content/environment/air-land-water/site-permitting-compliance/tulsequah-mine'>web page that contains detailed background information on Tulsequah Chief</a>.</p>",
+          "text" : "The Tulsequah Chief mine, located 100 km southwest of Atlin, was operated by Cominco as a copper, lead, zinc, silver and gold mine from 1950 to 1957. The mine site is on the Tulsequah River about 10 km upstream from its confluence with the Taku River, which drains into Taku Inlet near Juneau, Alaska. Due to ongoing interest in this mine, the Ministry of Environment has set up a web page that contains detailed background information on Tulsequah Chief.",
+          "title" : "Introduction",
+          "page" : "DETAILS",
+          "type" : "INTRO_TEXT",
+          "source" : "IMPORT"
+        },
+        {
+          "html" : "<p>The Tulsequah Chief mine, located 100 km southwest of Atlin, was operated by Cominco as a copper, lead, zinc, silver and gold mine from 1950 to 1957.</p>",
+          "text" : "The Tulsequah Chief mine, located 100 km southwest of Atlin, was operated by Cominco as a copper, lead, zinc, silver and gold mine from 1950 to 1957.",
+          "title" : "Introduction",
+          "page" : "MINES",
+          "type" : "OVERVIEW_INTRO_TEXT",
+          "source" : "Import"
+        }
+      ],
+      "activities" : [
+        {
+          "order" : 1,
+          "status" : "Inactive",
+          "name" : "Design"
+        },
+        {
+          "order" : 2,
+          "status" : "Inactive",
+          "name" : "Construction"
+        },
+        {
+          "order" : 3,
+          "status" : "Inactive",
+          "name" : "Operation"
+        },
+        {
+          "order" : 4,
+          "status" : "Active",
+          "name" : "Closure"
+        },
+        {
+          "order" : 5,
+          "status" : "Active",
+          "name" : "Reclamation"
+        },
+        {
+          "order" : 6,
+          "status" : "Active",
+          "name" : "Monitoring & Reporting"
+        }
+      ],
+      "externalLinks" : [
+      ],
+      "externalIDs" : [
+      ]
+    },
+    {
+      "name" : "Wolverine",
+      "code" : "wolverine",
+      "operator" : "Conuma Coal Resources Ltd.",
+      "ownership" : "Conuma Coal Resources Ltd.",
+      "morePermitsLinkYear" : "2013",
+      "morePermitsLink" : "https://mines.empr.gov.bc.ca/p/wolverine/docs?folder=12",
+      "moreInspectionsLinkYear" : "2013",
+      "moreInspectionsLink" : "https://mines.empr.gov.bc.ca/p/wolverine/docs?folder=7",
+      "status" : "Operating",
+      "description": "Located southwest of Tumbler Ridge in northeast BC, the Wolverine coal mine re-opened in January 2017, nearly three years after being placed in care and maintenance.",
+      "tailingsImpoundments" : 1,
+      "commodities" : [
+        "Coal"
+      ],
+      "commodityType" : "Coal",
+      "longitude" : -121.24977,
+      "latitude" : 55.08751,
+      "content" : [
+        {
+          "html" : "Wolverine Mine Overview",
+          "text" : "Wolverine Mine Overview",
+          "title" : "Wolverine Mine Overview",
+          "page" : "DETAILS",
+          "type" : "SUBTITLE",
+          "source" : "IMPORT"
+        },
+        {
+          "html" : "<p>Located approximately 25 km southwest of Tumbler Ridge, the Wolverine coal mine operated from 2006 until it went into care and maintenance in April 2014. The mine re-opened in January 2017 and currently employs approximately 220 people full time.</p><p>In September 2016, Conuma Coal Resources Ltd. purchased Wolverine, along with the Brule and Willow Creek mines, from Walter Energy in September 2016. All three of these metallurgical (steelmaking) coal mines are located in northeast BC&#8217;s Peace River area.</p>",
+          "text" : "Located approximately 25 km southwest of Tumbler Ridge, the Wolverine coal mine operated from 2006 until it went into care and maintenance in April 2014. The mine re-opened in January 2017 and currently employs approximately 220 people full time.\r\rIn September 2016, Conuma Coal Resources Ltd. purchased Wolverine, along with the Brule and Willow Creek mines, from Walter Energy in September 2016. All three of these metallurgical (steelmaking) coal mines are located in northeast BC’s Peace River area.",
+          "title" : "Introduction",
+          "page" : "DETAILS",
+          "type" : "INTRO_TEXT",
+          "source" : "IMPORT"
+        },
+        {
+          "html" : "<p>Located approximately 25 km southwest of Tumbler Ridge, the Wolverine coal mine operated from 2006 until it went into care and maintenance in April 2014.</p>",
+          "text" : "Located approximately 25 km southwest of Tumbler Ridge, the Wolverine coal mine operated from 2006 until it went into care and maintenance in April 2014.",
+          "title" : "Introduction",
+          "page" : "MINES",
+          "type" : "OVERVIEW_INTRO_TEXT",
+          "source" : "Import"
+        }
+      ],
+      "activities" : [
+        {
+          "order" : 1,
+          "status" : "Inactive",
+          "name" : "Design"
+        },
+        {
+          "order" : 2,
+          "status" : "Inactive",
+          "name" : "Construction"
+        },
+        {
+          "order" : 3,
+          "status" : "Active",
+          "name" : "Operation"
+        },
+        {
+          "order" : 4,
+          "status" : "N/A",
+          "name" : "Closure"
+        },
+        {
+          "order" : 5,
+          "status" : "Active",
+          "name" : "Reclamation"
+        },
+        {
+          "order" : 6,
+          "status" : "Active",
+          "name" : "Monitoring & Reporting"
+        }
+      ],
+      "externalLinks" : [
+      ],
+      "externalIDs" : [
+      ]
     }
   ]
 }
