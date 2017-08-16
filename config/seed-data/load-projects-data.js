@@ -3,16 +3,14 @@
 module.exports =
 {
   "name": "Projects",
-  "date": "2017-02-09T22:43:01.438Z",
+  "date": "2017-08-15T22:45:01.438Z",
   "data": [
     {
       "description": "",
       "name": "Coal Mountain Operations",
       "code": "coal-mountain-operations",
-      "morePermitsLinkYear": "2013",
+      "morePermitsLinkYear": "2008",
       "morePermitsLink": "https://mines.empr.gov.bc.ca/p/coal-mountain-operations/docs?folder=2",
-      "moreInspectionsLinkYear": "2013",
-      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/coal-mountain-operations/docs?folder=14",
       "content": [
         {
           "html": "Coal Mountain Operations Overview",
@@ -306,10 +304,8 @@ module.exports =
       "description": "",
       "name": "Copper Mountain",
       "code": "copper-mountain",
-      "morePermitsLinkYear": "2013",
+      "morePermitsLinkYear": "2009",
       "morePermitsLink": "https://mines.empr.gov.bc.ca/p/copper-mountain-similco/docs?folder=2",
-      "moreInspectionsLinkYear": "2013",
-      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/copper-mountain-similco/docs?folder=24",
       "content": [
         {
           "html": "Copper Mountain Mine Overview",
@@ -794,10 +790,8 @@ module.exports =
       "description": "",
       "name": "Highland Valley Copper",
       "code": "highland-valley-copper",
-      "morePermitsLinkYear": "2013",
-      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/highland-valley-copper-hvc/docs?folder=4",
-      "moreInspectionsLinkYear": "2013",
-      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/highland-valley-copper-hvc/docs?folder=15",
+      "morePermitsLinkYear": "2008",
+      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/highland-valley-copper-hvc/docs?folder=2",
       "content": [
         {
           "html": "Highland Valley Copper (HVC) Mine Overview",
@@ -889,10 +883,6 @@ module.exports =
       "description": "",
       "name": "Brucejack",
       "code": "brucejack",
-      "morePermitsLinkYear": "2013",
-      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/brucejack/docs?folder=2",
-      "moreInspectionsLinkYear": "2013",
-      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/brucejack/docs?folder=5",
       "content": [
         {
           "html": "Brucejack Mine Overview",
@@ -1770,10 +1760,8 @@ module.exports =
       "description": "",
       "name": "Elkview Operations",
       "code": "elkview-operations",
-      "morePermitsLinkYear": "2013",
+      "morePermitsLinkYear": "2008",
       "morePermitsLink": "https://mines.empr.gov.bc.ca/p/elkview-operations/docs?folder=8",
-      "moreInspectionsLinkYear": "2013",
-      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/elkview-operations/docs?folder=6",
       "content": [
         {
           "html": "Elkview Operations Overview",
@@ -2162,8 +2150,6 @@ module.exports =
       "description": "",
       "name": "Red Chris",
       "code": "red-chris",
-      "morePermitsLinkYear": "2013",
-      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/red-chris/docs?folder=7",
       "moreInspectionsLinkYear": "2013",
       "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/red-chris/docs?folder=5",
       "content": [
@@ -2257,8 +2243,6 @@ module.exports =
       "description": "",
       "name": "Mount Milligan",
       "code": "mount-milligan",
-      "morePermitsLinkYear": "2013",
-      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/mount-milligan/docs?folder=2",
       "moreInspectionsLinkYear": "2013",
       "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/mount-milligan/docs?folder=7",
       "content": [
@@ -2352,10 +2336,6 @@ module.exports =
       "description": "",
       "name": "Silvertip",
       "code": "silvertip",
-      "morePermitsLinkYear": "2013",
-      "morePermitsLink": "https://mines.empr.gov.bc.ca/p/silvertip/docs?folder=2",
-      "moreInspectionsLinkYear": "2013",
-      "moreInspectionsLink": "https://mines.empr.gov.bc.ca/p/silvertip/docs?folder=5",
       "content": [
         {
           "html": "Silvertip Mine Overview",
@@ -2638,10 +2618,6 @@ module.exports =
       "code" : "kemess",
       "operator" : "AuRico Metals Inc.",
       "ownership" : "AuRico Metals Inc.",
-      "morePermitsLinkYear" : "2013",
-      "morePermitsLink" : "https://mines.empr.gov.bc.ca/p/kemess/docs?folder=13",
-      "moreInspectionsLinkYear" : "2013",
-      "moreInspectionsLink" : "https://mines.empr.gov.bc.ca/p/kemess/docs?folder=8",
       "status" : "Operating",
       "description" : "AuRico Metals Inc.’s Kemess property is located in north-central BC, approximately 250 km north of Smithers and 430 km northwest of Prince George. The property comprises the past-producing Kemess South mine as well as the Kemess Underground and Kemess East projects.",
       "tailingsImpoundments" : 1,
@@ -2720,10 +2696,6 @@ module.exports =
       "code" : "trend-roman",
       "operator" : "Peace River Coal Inc.",
       "ownership" : "Peace River Coal Inc.",
-      "morePermitsLinkYear" : "2013",
-      "morePermitsLink" : "https://mines.empr.gov.bc.ca/p/trend-roman/docs?folder=8",
-      "moreInspectionsLinkYear" : "2013",
-      "moreInspectionsLink" : "https://mines.empr.gov.bc.ca/p/trend-roman/docs?folder=2",
       "status" : "Operating",
       "description": "Peace River Coal's Trend coal mine, located near Tumbler Ridge in northeast BC, began production in 2006. Operations were to be integrated with those of the Roman coal mine; however, as a result of low coal prices, Trend-Roman has been in care and maintenance since January 2015.",
       "tailingsImpoundments" : 0,
@@ -2801,10 +2773,6 @@ module.exports =
       "code" : "tulsequah-chief",
       "operator" : "Chieftan Metals Corp.",
       "ownership" : "Chieftan Metals Corp.",
-      "morePermitsLinkYear" : "2013",
-      "morePermitsLink" : "https://mines.empr.gov.bc.ca/p/tulsequah-chief/docs?folder=3",
-      "moreInspectionsLinkYear" : "2013",
-      "moreInspectionsLink" : "https://mines.empr.gov.bc.ca/p/tulsequah-chief/docs?folder=2",
       "status" : "Operating",
       "description": "The Tulsequah Chief mine, located 100 km southwest of Atlin, was operated by Cominco as a copper, lead, zinc, silver and gold mine from 1950 to 1957.",
       "tailingsImpoundments" : 0,
@@ -2886,10 +2854,6 @@ module.exports =
       "code" : "wolverine",
       "operator" : "Conuma Coal Resources Ltd.",
       "ownership" : "Conuma Coal Resources Ltd.",
-      "morePermitsLinkYear" : "2013",
-      "morePermitsLink" : "https://mines.empr.gov.bc.ca/p/wolverine/docs?folder=12",
-      "moreInspectionsLinkYear" : "2013",
-      "moreInspectionsLink" : "https://mines.empr.gov.bc.ca/p/wolverine/docs?folder=7",
       "status" : "Operating",
       "description": "Located southwest of Tumbler Ridge in northeast BC, the Wolverine coal mine re-opened in January 2017, nearly three years after being placed in care and maintenance.",
       "tailingsImpoundments" : 1,
