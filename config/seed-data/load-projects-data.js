@@ -2044,8 +2044,8 @@ module.exports =
         "Coal"
       ],
       "commodityType": "Coal",
-      "longitude": -114.655,
-      "latitude": 49.513,
+      "longitude": -114.83,
+      "latitude": 49.745,
       "externalIDs": [],
       "operator": "Teck Coal Limited",
       "ownership": "Teck Resources Limited - 95%;Nippon Steel & Sumitomo Metal Corporation - 2.5%;POSCO - 2.5%",
@@ -2263,7 +2263,7 @@ module.exports =
           "source": "IMPORT"
         },
         {
-          "html": "<p>Teck's Highland Valley Copper (HVC) mine is located approximately 17 km west of Logan Lake and about 50 km southwest of Kamloops in south-central BC. HVC produces both copper and molybdenum concentrates through autogenous and semi-autogenous grinding and flotation. Once processed, the metal concentrates are exported overseas, where the majority is sold under long-term sales contracts to smelters.</p>",
+          "html": "<p>The Mount Milligan copper-gold mine is located 155 km northwest of Prince George, between the communities of Fort St. James and Mackenzie in central BC. Mine construction began in 2010, and the mine began production in August 2013.</p>",
           "text": "The Mount Milligan copper-gold mine is located 155 km northwest of Prince George, between the communities of Fort St. James and Mackenzie in central BC. Mine construction began in 2010, and Mount Milligan began production in August 2013.",
           "title": "Introduction",
           "page": "MINES",
