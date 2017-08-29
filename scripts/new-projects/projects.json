@@ -73,6 +73,20 @@
       }
     ],
     "externalLinks" : [
+      {
+        "link": "https://projects.eao.gov.bc.ca/p/kemess-underground/detail",
+        "title": "Kemess Underground (EAO)",
+        "page": "DETAILS",
+        "type": "EXTERNAL_LINK",
+        "source": "IMPORT"
+      },
+      {
+        "link": "http://www.auricometals.ca/kemess/kemess-underground-project/default.aspx",
+        "title": "Kemess Underground Project (AuRico Metals)",
+        "page": "DETAILS",
+        "type": "EXTERNAL_LINK",
+        "source": "IMPORT"
+      }
     ],
     "externalIDs" : [
     ]
@@ -93,8 +107,8 @@
     "latitude" : 54.8995,
     "content" : [
       {
-        "html" : "Trend Mine Overview",
-        "text" : "Trend Mine Overview",
+        "html" : "Trend-Roman Mine Overview",
+        "text" : "Trend-Roman Mine Overview",
         "title" : "Trend Mine Overview",
         "page" : "DETAILS",
         "type" : "SUBTITLE",
@@ -150,6 +164,13 @@
       }
     ],
     "externalLinks" : [
+      {
+        "link": "https://projects.eao.gov.bc.ca/p/roman-coal-mine/detail",
+        "title": "Roman Coal Mine (EAO)",
+        "page": "DETAILS",
+        "type": "EXTERNAL_LINK",
+        "source": "IMPORT"
+      }
     ],
     "externalIDs" : [
     ]
@@ -231,6 +252,20 @@
       }
     ],
     "externalLinks" : [
+      {
+        "link": "http://www2.gov.bc.ca/gov/content/environment/air-land-water/site-permitting-compliance/tulsequah-mine",
+        "title": "Tulsequah Mine Information (ENV)",
+        "page": "DETAILS",
+        "type": "EXTERNAL_LINK",
+        "source": "IMPORT"
+      },
+      {
+        "link": "https://projects.eao.gov.bc.ca/p/tulsequah-chief-mine/detail",
+        "title": "Tulsequah Chief Mine (EAO)",
+        "page": "DETAILS",
+        "type": "EXTERNAL_LINK",
+        "source": "IMPORT"
+      }
     ],
     "externalIDs" : [
     ]
@@ -308,6 +343,20 @@
       }
     ],
     "externalLinks" : [
+      {
+        "link": "https://projects.eao.gov.bc.ca/p/wolverine-coal-mine/detail",
+        "title": "Wolverine Coal Mine (EAO)",
+        "page": "DETAILS",
+        "type": "EXTERNAL_LINK",
+        "source": "IMPORT"
+      },
+      {
+        "link": "http://www.conumacoal.com/",
+        "title": "Conuma Coal Resources",
+        "page": "DETAILS",
+        "type": "EXTERNAL_LINK",
+        "source": "IMPORT"
+      }
     ],
     "externalIDs" : [
     ]
