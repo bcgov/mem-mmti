@@ -42,7 +42,7 @@ module.exports = {
     {
       "agencyCode": "EAO",
       "projectName": "Brucejack",
-      "authorizationID": "M15-02",
+      "authorizationID": "M15-01",
       "documentName": "Amendment #2 to EA Certificate #M15-01 for Brucejack Gold Mine Project",
       "authorizationDate": "2016-08-16T15:00:00.000Z",
       "documentType": "Certificate",
@@ -60,7 +60,7 @@ module.exports = {
     {
       "agencyCode": "EAO",
       "projectName": "Brucejack",
-      "authorizationID": "M15-03",
+      "authorizationID": "M15-01",
       "documentName": "Amendment #3 to EA Certificate #M15-01 for Brucejack Gold Mine Project",
       "authorizationDate": "2016-11-23T16:00:00.000Z",
       "documentType": "Certificate",
