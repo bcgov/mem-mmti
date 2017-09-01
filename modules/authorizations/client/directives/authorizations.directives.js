@@ -21,8 +21,8 @@ function directiveProjectAuthorizationOversight() {
 }
 
 var agencyMap = {
-	'ENV': {name: 'Ministry of Environment', act: "Environmental Management Act"},
-	'MEM': {name: 'Ministry of Energy and Mines', act: "Mines Act"},
+	'ENV': {name: 'Ministry of Environment and Climate Change Strategy', act: "Environmental Management Act"},
+	'MEM': {name: 'Ministry of Energy, Mines and Petroleum Resources', act: "Mines Act"},
 	'EAO': {name: "Environmental Assessment Office", act: "Environmental Assessment Act"}
 };
 
