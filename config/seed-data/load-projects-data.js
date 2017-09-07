@@ -1002,13 +1002,6 @@ module.exports =
       ],
       "externalLinks": [
         {
-          "link": "http://goo",
-          "title": "blah",
-          "page": "COMPLIANCE",
-          "type": "EXTERNAL_LINK",
-          "source": "IMPORT"
-        },
-        {
           "link": "https://news.gov.bc.ca/releases/2016MEM0021-001779",
           "title": "Brule Restart News Release (Province of BC, September 23, 2016)",
           "page": "DETAILS",
