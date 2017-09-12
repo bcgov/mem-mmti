@@ -875,8 +875,9 @@ module.exports =
       "longitude": -120.9045,
       "latitude": 50.4367,
       "externalIDs": [],
+      "tailingsImpoundments" : 5,
       "operator": "Teck Highland Valley Copper Partnership",
-      "ownership": "Teck Resources Limited - 97.5%;Highmont Mining Company - 2.5%",
+      "ownership": "Teck Resources Limited - 100%",
       "status": "Operating"
     },
     {
