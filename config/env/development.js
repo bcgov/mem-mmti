@@ -25,6 +25,7 @@ module.exports = {
   app: {
     title: defaultEnvConfig.app.title + ' - Development Environment'
   },
+  port: process.env.PORT || 5000,
   token: {
     tokenQuery: process.env.TOKEN_QUERY || 'smgov_userguid',
     tokenParams: process.env.TOKEN_PARAMS || undefined,
