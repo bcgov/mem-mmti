@@ -15,7 +15,9 @@
   },
   "scripts": {
     "test": "grunt test",
-    "postinstall": "git config --global url.'https://'.insteadOf git:// && bower install --config.interactive=false --allow-root && grunt buildprod"
+    "postinstall": "git config --global url.'https://'.insteadOf git:// && bower install --config.interactive=false --allow-root && grunt buildprod",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
     "acl": "~0.4.4",
@@ -63,7 +65,8 @@
     "uid-safe": "2.0.0",
     "validator": "^3.41.2",
     "mongodb": "~2.0",
-    "mongodb-core": "~1.0"
+    "mongodb-core": "~1.0",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "coveralls": "^2.11.4",
@@ -94,5 +97,6 @@
     "run-sequence": "^1.1.1",
     "should": "^7.0.1",
     "supertest": "^1.0.1"
-  }
+  },
+  "snyk": true
 }
