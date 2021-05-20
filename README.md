@@ -1,4 +1,4 @@
-# mem-mmti (nrs)
+# mem-mmti (nrs) [![Lifecycle:Retired](https://img.shields.io/badge/Lifecycle-Retired-d45500)](<Redirect-URL>)
 mem-mmti is a project of the Ministry of Energy and Mines in partnership with the OCIO DevOps Pathfinder, Ministry of Environment, and the Environmental Assessment Office.
 
 MEM MMTI is an offshoot derivative of the ESM application to support the Major Mines Transparency project of the Ministry of Energy and Mines.
